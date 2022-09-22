@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      Росія - країна <span className="animate">терорист</span>
+      росія - країна <span className="animate">терорист</span>
     </div>
   );
 }
